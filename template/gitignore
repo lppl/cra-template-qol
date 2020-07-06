@@ -1,0 +1,5 @@
+# This file must contains only project specific files and directories.
+# For npm, IDE or OS specific files please use your global gitignore file.
+# https://gist.github.com/subfuzion/db7f57fff2fb6998a16c
+
+/build
