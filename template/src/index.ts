@@ -1,5 +1,5 @@
-import App from "./components/App";
-import reportWebVitals from "./reportWebVitals";
+import App from "components/App";
+import reportWebVitals from "reportWebVitals";
 import { render } from "utils/render";
 
 const container = document.getElementById("root");

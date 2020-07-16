@@ -1,6 +1,6 @@
 TEST_DIRECTORY=${PWD}/test-of-installation
 TPL_DIRECTORY=${PWD}/template
-FILES:= src public .env.development .eslintignore .eslintrc.json .gitignore Makefile README.md tsconfig.json
+FILES:= src public .env.development .eslintignore .eslintrc.json .gitignore Makefile README.md .prettierrc tsconfig.json
 
 test-build: cra test build
 cp: update-templates-from-test-directory
