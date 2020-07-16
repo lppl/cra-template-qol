@@ -1,5 +1,5 @@
-import React from 'react';
-import cls from './App.module.css';
+import React from "react";
+import cls from "components/App.module.css";
 
 export default function App() {
   return (

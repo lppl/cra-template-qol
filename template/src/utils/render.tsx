@@ -1,5 +1,5 @@
-import React, { FC } from 'react';
-import ReactDom from 'react-dom';
+import React, { FC } from "react";
+import ReactDom from "react-dom";
 
 export const render = ({
   application: App,
